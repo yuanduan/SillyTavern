@@ -14,6 +14,7 @@ basicAuthMode: true
 basicAuthUser:
   username: "yuanduan"
   password: "QWEqwe123"
+  
 # Enables CORS proxy middleware
 enableCorsProxy: false
 # Disable security checks - NOT RECOMMENDED
